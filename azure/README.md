@@ -19,7 +19,7 @@ This creates a 'client' that is able to authenticate with the Key Vault to retri
 
 ## Deploy external secrets
 ```
-kubectl apply -f eternalsecret.yaml
+kubectl apply -f externalsecret.yaml
 ```
 Specify the secrets / keys / certificates to be imported from the Key Vault
 
